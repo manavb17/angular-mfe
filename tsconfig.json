@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/shell-e2e"
+    },
+    {
+      "path": "./apps/mfe1-e2e"
+    }
+  ]
+}
