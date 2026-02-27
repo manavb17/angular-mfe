@@ -1,0 +1,5 @@
+npm create nx-workspace@latest my-workspace
+
+npx nx run-many -t build 
+
+npm exec nx serve shell   
